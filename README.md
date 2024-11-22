@@ -50,8 +50,11 @@ The HR Analytics dashboard provides a detailed breakdown of working preferences,
 ## Technologies Used
 
 Data Storage: Excel
+
 ETL Tool: Power Query in Power BI
+
 Data Transformation: DAX in Power BI
+
 Visualization: Power BI for dashboard development and interactivity
 
 
