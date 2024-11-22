@@ -17,22 +17,31 @@ Data Consolidation: Monthly data files were consolidated into a single dataset f
 Data Cleaning and Transformation:
 
 Redundancy Removal: Duplicates and redundant records were removed to ensure data quality.
+
 Unnecessary Column Removal: Only essential columns were retained for analysis, reducing dataset size and complexity.
+
 Data Restructuring: Certain rows were transposed into columns to enable easier analysis and align with the report’s requirements.
 
 ## 2. Measure Creation
 
 Based on stakeholder requirements, several measures were created to capture key metrics:
+
 Sick Leave Percentage (SL%): Calculates the proportion of employees on sick leave.
+
 WFH Percentage (WFH%): Analyzes the percentage of employees who opt for WFH versus WFO.
+
 WFH Count: Tracks the count of employees working from home, broken down by days of the week and other specified periods.
+
 These measures were implemented in DAX (Data Analysis Expressions) to provide dynamic and accurate calculations based on the filtered dataset.
 
 ## 3. Dashboard Design and Implementation
 
 Leveraged Power BI to design an interactive, user-friendly dashboard that visualizes working trends, allowing HR to:
+
 Identify patterns in WFH/WFO preferences.
+
 Understand the correlation between sick leave and WFH on specific days.
+
 Gain insights into employee behavior that can inform HR policies and workplace strategies.
 
 ## 4. Final Output
